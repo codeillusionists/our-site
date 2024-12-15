@@ -27,7 +27,7 @@ We’ve provided a **starter template** to help you get started. Here's how you 
 To begin, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-community/code-illusionists.git
+git clone https://github.com/codeillusionists/our-site.git
 ```
 
 
